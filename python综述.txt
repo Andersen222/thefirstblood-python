@@ -1,0 +1,13 @@
+1.Python是一门可以撰写跨平台应用程序的面向对象的语言，主要应用于web、pc、商业分析等领域。
+
+2.Guido Van Rossum 于1989年创建Python。
+
+3.特点：解释性语言（脚本语言，不需要编译执行）、高级性、跨平台性（win下易用，Linux下稳定，Mac下更好的用户体验）、胶水语言（可以连接多种技术标准）、健壮性。
+
+4.版本：Python2与Python3，二者不兼容。
+
+5.Python程序的运行，需要Python环境的支持。因此，首先需要安装配置Python开发环境。
+
+编辑器：IDLE是Python原生编辑器；win下也可以在cmd命令窗口中执行Python程序；其他编辑器有Sunlime Text、Pycharm、Eclipse等。
+
+6.主要使用方向：web服务，人工智能，大数据运维，数据分析，数据挖掘，机器学习，深度学习。
